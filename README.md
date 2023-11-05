@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Alphonsus411
-- 👀 I’m interested in Python, Data Science and Machine Learning.
-- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on the future in any Data Science Project
 - 📫 How to reach me adolfogonzal@gmail.com
 
