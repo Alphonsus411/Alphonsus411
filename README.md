@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alphonsus411
-- 💞️ I’m looking to collaborate on the future in any Data Science Project
+- Junior Python Django and Junior Python Data Scientist. 
 - 📫 How to reach me adolfogonzal@gmail.com
 
 <!---
