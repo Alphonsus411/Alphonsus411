@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alphonsus411
-- Junior Python Django and Junior Python Data Scientist. 
+- Python Developer and Python Data Scientist. 
 - 📫 How to reach me adolfogonzal@gmail.com
 
 <!---
