@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Alphonsus411
-- Python Developer and Python Data Scientist. 
+- Python Developer and Python Data Scientist.
+- Holographic Computer Developer Pioneer anf Founder. 
 - 📫 How to reach me adolfogonzal@gmail.com
 
 <!---
